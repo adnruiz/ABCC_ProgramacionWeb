@@ -1,0 +1,33 @@
+#header img {
+    width: 75px;
+    height: 70px;
+}
+
+#header a {
+    position: relative;
+    padding: 5px 10px;
+    color: #2196f3;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    overflow: hidden;
+    transition: 0.2s;
+    font-family: 'Allerta Stencil';
+    font-size: 16px;
+}
+
+#header a:hover {
+    color: #235784;
+    background: #2196f3;
+    box-shadow: 0 0 15px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    border-radius: 8px;
+    font-family: 'Allerta Stencil';
+    font-size: 16px;
+}
+
+#header {
+    background: #14274e ! important;
+    font-family: 'Allerta Stencil';
+    font-size: 16px;
+}
+
+
